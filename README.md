@@ -44,7 +44,8 @@ Path planning helps to improve the printed surface quality, shape accuracy and i
 <img height=40% width=100% src="https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54">
 
 ## Output:
-<img height=30% width=100% src="https://github.com/ROHITJAIND/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707073/c70ee438-315d-4b05-a3b6-71897edfb8a7">
+![7 mechanics](https://github.com/KRISHNARAJ-D/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559695/3ec63749-1991-4b9b-9fa1-0cd4f2989959)
+
 
 ### Name: KRISHNARAJ D
 ### Register Number: 212222230070
